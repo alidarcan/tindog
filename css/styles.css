@@ -147,7 +147,9 @@ p {
 }
 
 @media (max-width: 992px) {
-    #title {
+
+    #title,
+    #title .container-fluid {
         text-align: center;
     }
 
@@ -159,10 +161,10 @@ p {
     .big-heading {
         font-size: 2.5rem;
     }
-    
-    .section-heading {
-        font-size: 2rem;
 
+    .section-heading,
+    .testimonial-text {
+        font-size: 2rem;
     }
 }
 
