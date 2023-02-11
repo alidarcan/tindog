@@ -1,6 +1,7 @@
 # tindog Website 
-[Click for Demo](https://alidarcan.github.io/CSS---My-Site/)
-![website](https://user-images.githubusercontent.com/99339675/161609877-813a1e65-f451-431d-bec9-f85d1594c24f.png)
+[Click for Demo](https://alidarcan.github.io/tindog/)
+
+![tindog](https://user-images.githubusercontent.com/99339675/218262846-e24f0da9-ec88-44c0-9266-6d3f37caa0e6.png)
 
 ## INFORMATION
 
